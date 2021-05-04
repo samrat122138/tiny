@@ -5,11 +5,11 @@ Removes all spaces from a string.
 
 # Install
 
-$ npm install @bamblehorse/tiny
+$ npm install @samrat122138/tiny
 
 # Usage
 
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@samrat122138/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
